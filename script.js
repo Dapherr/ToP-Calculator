@@ -42,4 +42,3 @@ operatorButtons.forEach(operatorButton => {
         console.log(operatorButton.textContent);
     })
 })
-
