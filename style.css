@@ -17,6 +17,7 @@ body {
     align-items: center;
     height: 100%;
     gap: 100px;
+    background-color: rgb(31, 31, 54);
 }
 
 #main-heading {
